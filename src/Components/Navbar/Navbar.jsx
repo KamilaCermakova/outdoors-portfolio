@@ -10,7 +10,7 @@ export default function Navbar() {
     return (
         <nav className="navbar">
             <div className="navbar__logo">
-                <Link to="/tours">Outdoors</Link>
+                <Link to="/tours">WanderTrails</Link>
             </div>
             <div className="navbar__menu">
                 {user ? (

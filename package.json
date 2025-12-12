@@ -1,8 +1,8 @@
 {
-  "name": "outdoors",
+  "name": "wandertrails",
   "version": "0.1.0",
   "private": true,
-  "description": "Outdoors is a fictional tour booking website used for educational purposes in web development courses.",
+  "description": "Wandertrails is a fictional tour booking website.",
   "homepage": "./",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.1.0",

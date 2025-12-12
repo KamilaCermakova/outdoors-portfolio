@@ -11,8 +11,10 @@ export default function Home() {
       <header className="home-header">
         <div className="header-text-box">
           <h1 className="heading-primary">
-            <span className="heading-primary--main">Outdoors</span>
-            <span className="heading-primary--sub">is where life happens</span>
+            <span className="heading-primary--main">WanderTrails</span>
+            <span className="heading-primary--sub">
+              Discover and save unforgettable outdoor adventures
+            </span>
           </h1>
           <div className="home-actions">
             {!user && (
@@ -21,7 +23,7 @@ export default function Home() {
                 <Link to="/signup" className="btn btn--white">Sign Up</Link>
               </>
             )}
-            <Link to="/tours" className="btn btn--green">View Available Tours</Link>
+            <Link to="/tours" className="btn btn--green">Explore Tours</Link>
           </div>
         </div>
       </header>
