@@ -17,8 +17,6 @@ Users can browse available tours, view details, and explore destinations in a cl
 - CSS
 - Create React App
 
-## Getting Started
-
 ## To run the project locally:
 ```bash
 npm install
